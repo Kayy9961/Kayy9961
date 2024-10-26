@@ -5,7 +5,7 @@
 
 <p align="center"> > Contacta conmigo: <a href="https://discord.gg/users/1291162796796411969">Discord</a></p>
 
-- Fundador de of [KayyShop](https://discord.gg/kayyfnshop)
+<p align="center"> - Fundador de <a [KayyShop](https://discord.gg/kayyfnshop)
 
 
 - Todos mis proyectos [aquí](https://github.com/Kayy9961?tab=repositories).
