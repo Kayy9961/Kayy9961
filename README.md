@@ -7,7 +7,7 @@
 
 <<p>Fundador de <a href="https://discord.gg/kayyfnshop">KayyShop</a></p>
 
-<p>Todos mis proyectos <a href="https://github.com/Kayy9961?tab=repositories">aquí</a>.</p>
+<p>Todos mis proyectos <a href="https://github.com/Kayy9961?tab=repositories">aquí/a>.</p>
 
 <h3 align="center">Contacta conmigo:</h3>
 <p align="center">
