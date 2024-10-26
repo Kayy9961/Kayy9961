@@ -5,10 +5,10 @@
 
 <p align="center"> > Contacta conmigo: <a href="https://discord.gg/users/1291162796796411969">Discord</a></p>
 
-<p align="center"> -Fundador de [KayyShop](https://discord.gg/kayyfnshop)
+<p align="center"> -Fundador de [KayyShop]<a (https://discord.gg/kayyfnshop)
 
 
-<p align="center"> -Todos mis proyectos: [here](https://github.com/Kayy9961?tab=repositories).
+<p align="center"> -Todos mis proyectos: <a[here](https://github.com/Kayy9961?tab=repositories).
 
 <h3 align="center">Contacta conmigo:</h3>
 <p align="center">
