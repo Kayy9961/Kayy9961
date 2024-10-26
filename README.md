@@ -1,5 +1,5 @@
 <h1 align="center">Holaa Soy Kayy</h1>
-<h3 align="center">Desarrolladora de aplicaciones</h3>
+<h3 align="center">Desarrollador de aplicaciones</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=p-dennygamingyt&label=Profile%20views&color=0e75b6&style=flat" alt="Visitas del perfil" /> </p>
 <p align="center"> <img src="https://img.shields.io/github/followers/paysonism" alt="followers"> </p>
