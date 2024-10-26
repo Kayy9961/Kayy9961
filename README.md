@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://img.shields.io/github/followers/Kayy9961" alt="followers"> </p>
 
-<p align="center"> > Contacta conmigo: <a href="https://discord.gg/users/1291162796796411969">Discord</a></p>
+<p align="center"> Contacta conmigo: <a href="https://discord.gg/users/1291162796796411969">Discord</a></p>
 
 <<p>Fundador de <a href="https://discord.gg/kayyfnshop">KayyShop</a></p>
 
